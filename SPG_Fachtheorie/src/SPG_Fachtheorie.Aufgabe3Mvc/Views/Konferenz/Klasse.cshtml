@@ -1,0 +1,51 @@
+﻿@model List<SPG_Fachtheorie.Aufgabe2.Model.Student>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Vorname</th>
+            <th>Beschluss?</th>
+            <th>Aktion</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                @{
+                    string beschluss = "";
+                    if (student.ConferenceDecision is not null)
+                    {
+
+                        if ((bool)student.ConferenceDecision)
+                        {
+                            beschluss = "JA";
+                        }
+                        else
+                        {
+                            beschluss = "NEIN";
+                        }
+                    }
+                }
+
+                <td>@student.Lastname</td>
+                <td>@student.Firstname</td>
+                <td>@beschluss</td>
+
+                <td>
+                    @if(student.Grades.Count(s => s.GradeValue == 5) > 1)
+                    {
+                      <a asp-controller="Konferenz" asp-action="Beschluss" asp-route-id="@student.Id">Beschluss eintragen</a>
+                    }
+
+                    @if(student.Grades.Any(s => s.GradeValue == 5))
+                    {
+                       <a asp-controller="Pruefung" asp-action="Anmeldung" asp-route-id="@student.Id">Prüfung anmelden</a> 
+                    }
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

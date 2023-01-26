@@ -1,0 +1,32 @@
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.csproj.AssemblyReference.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.AssemblyInfoInputs.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.AssemblyInfo.cs
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.csproj.CoreCompileInputs.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.RazorAssemblyInfo.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.RazorAssemblyInfo.cs
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.dll
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\refint\SPG_Fachtheorie.Aufgabe3RazorPages.dll
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.pdb
+C:\Scratch\Aufgabe3_Razor\Debug\net6.0\appsettings.Development.json
+C:\Scratch\Aufgabe3_Razor\Debug\net6.0\appsettings.json
+C:\Scratch\Aufgabe3_Razor\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.staticwebassets.runtime.json
+C:\Scratch\Aufgabe3_Razor\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.exe
+C:\Scratch\Aufgabe3_Razor\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.deps.json
+C:\Scratch\Aufgabe3_Razor\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.runtimeconfig.json
+C:\Scratch\Aufgabe3_Razor\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.dll
+C:\Scratch\Aufgabe3_Razor\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.pdb
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\staticwebassets\msbuild.SPG_Fachtheorie.Aufgabe3RazorPages.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\staticwebassets\msbuild.build.SPG_Fachtheorie.Aufgabe3RazorPages.props
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SPG_Fachtheorie.Aufgabe3RazorPages.props
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SPG_Fachtheorie.Aufgabe3RazorPages.props
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\scopedcss\bundle\SPG_Fachtheorie.Aufgabe3RazorPages.styles.css
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\scopedcss\projectbundle\SPG_Fachtheorie.Aufgabe3RazorPages.bundle.scp.css
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.csproj.CopyComplete
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe3RazorPages.genruntimeconfig.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe3RazorPages\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe3RazorPages.dll

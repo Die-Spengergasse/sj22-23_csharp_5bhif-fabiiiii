@@ -1,0 +1,31 @@
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\CoverletSourceRootsMapping
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\testhost.dll
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\testhost.exe
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.deps.json
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.runtimeconfig.json
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.dll
+C:\Scratch\Aufgabe1.Test\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.pdb
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.csproj.AssemblyReference.cache
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.AssemblyInfoInputs.cache
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.AssemblyInfo.cs
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.csproj.CoreCompileInputs.cache
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.csproj.CopyComplete
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.dll
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe1.Test.dll
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.pdb
+C:\Users\selta\Desktop\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.genruntimeconfig.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.csproj.AssemblyReference.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.AssemblyInfoInputs.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.AssemblyInfo.cs
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.csproj.CoreCompileInputs.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.csproj.CopyComplete
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.dll
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe1.Test.dll
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.pdb
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe1.Test.genruntimeconfig.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe1.Test\obj\Debug\net6.0\refint\SPG_Fachtheorie.Aufgabe1.Test.dll

@@ -1,0 +1,24 @@
+﻿@model SPG_Fachtheorie.Aufgabe2.Model.Student
+@*
+
+*@
+
+
+            <h6>@Model.Firstname  @Model.Lastname hat in den folgenden Gegenständen ein Nicht Genügend</h6>
+            @foreach(var student in Model.Grades){
+                @if(student.GradeValue == 5){
+                    <h6>@student.Lesson.Subject.Shortname  -  @student.Lesson.Subject.Longmame</h6>
+                }
+            }
+            <input type="hidden" asp-for="Guid" />
+            <div>
+                <label>Soll @Model.Firstname mit diesen Nicht Genügend in den höheren Jahrgang aufsteigen?</label>
+            </div>
+
+       <div>
+        <a asp-controller="Konferenz" asp-action="BeschlussPost" asp-route-id="@Model.Id" asp-route-conferenceDecision="true"><button>JA</button></a>
+        <a asp-controller="Konferenz" asp-action="BeschlussPost" asp-route-id="@Model.Id" asp-route-conferenceDecision="false"><button>NEIN</button></a>
+       </div>
+
+
+

@@ -1,0 +1,55 @@
+﻿@model List<SPG_Fachtheorie.Aufgabe2.Model.Exam>
+
+
+
+<h1>Pruefung Anmelden</h1>
+
+@if (Model.Count() < 1)
+{
+     <tr>No exams available</tr>
+}
+else{
+
+<h6>@Model[0].Grade.Student.Firstname @Model[0].Grade.Student.Lastname ist zu folgenden Prüfungen angemeldet:</h6>
+
+
+
+@foreach(var exam in Model)
+{
+   
+        <div>
+            <h7>@exam.Grade.Lesson.Subject.Shortname am @exam.Date</h7>
+        </div>
+    
+
+}
+
+<div>
+    <h6>Neue Pruefung Anmelden</h6>
+</div>
+
+
+    <div>
+        <label>Datum:</label>
+        <input type="date" />
+    </div>
+    <div>
+        <label>Gegenstand</label>
+    </div>
+    <select>
+        @foreach (var item in Model)
+     {
+        @if (item.Grade.GradeValue == 5)
+        {
+            <option>@item.Grade.Lesson.Subject.Shortname</option>
+        }
+     }
+    </select>
+
+
+}
+
+ <div>
+        <a asp-controller="" asp-action=""><button>Speichern</button></a>
+        <a asp-controller="" asp-action=""><button>Abbruch</button></a>
+</div>

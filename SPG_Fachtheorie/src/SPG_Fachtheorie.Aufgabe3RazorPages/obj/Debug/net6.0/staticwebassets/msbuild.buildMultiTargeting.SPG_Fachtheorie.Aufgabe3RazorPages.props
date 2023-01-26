@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SPG_Fachtheorie.Aufgabe3RazorPages.props" />
+</Project>

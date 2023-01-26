@@ -1,0 +1,21 @@
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.csproj.AssemblyReference.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.AssemblyInfoInputs.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.AssemblyInfo.cs
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.csproj.CoreCompileInputs.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.dll
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\refint\SPG_Fachtheorie.Aufgabe2.Test.dll
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.pdb
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\testhost.dll
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\testhost.exe
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.deps.json
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.runtimeconfig.json
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.dll
+C:\Scratch\Aufgabe2_Test\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.pdb
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.csproj.CopyComplete
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.Test.genruntimeconfig.cache
+C:\Users\selta\Desktop\C# Matura\SPG_Fachtheorie\SPG_Fachtheorie\test\SPG_Fachtheorie.Aufgabe2.Test\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe2.Test.dll

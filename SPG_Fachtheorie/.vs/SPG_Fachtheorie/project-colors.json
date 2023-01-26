@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5bfbc28f-e055-4324-b325-ca6e666e6356": {
+      "ProjectGuid": "5bfbc28f-e055-4324-b325-ca6e666e6356",
+      "DisplayName": "SPG_Fachtheorie.Aufgabe1",
+      "ColorIndex": 0
+    },
+    "d5375606-5b3c-484f-a6f3-970e7a07848b": {
+      "ProjectGuid": "d5375606-5b3c-484f-a6f3-970e7a07848b",
+      "DisplayName": "SPG_Fachtheorie.Aufgabe2",
+      "ColorIndex": 1
+    },
+    "c61a48e2-b25e-4411-be8c-b4a0a9c82f2a": {
+      "ProjectGuid": "c61a48e2-b25e-4411-be8c-b4a0a9c82f2a",
+      "DisplayName": "SPG_Fachtheorie.Aufgabe1.Test",
+      "ColorIndex": 2
+    },
+    "207ab022-3cfd-46f6-8474-864217f156c0": {
+      "ProjectGuid": "207ab022-3cfd-46f6-8474-864217f156c0",
+      "DisplayName": "SPG_Fachtheorie.Aufgabe3Mvc",
+      "ColorIndex": 3
+    },
+    "8677b43f-5bd8-4e86-8582-d9dbcb6b58f3": {
+      "ProjectGuid": "8677b43f-5bd8-4e86-8582-d9dbcb6b58f3",
+      "DisplayName": "SPG_Fachtheorie.Aufgabe2.Test",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
